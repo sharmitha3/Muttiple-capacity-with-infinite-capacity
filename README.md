@@ -55,7 +55,7 @@ if (rho<1):
 else:
     print("Warning! Objects Over flow will happen in the conveyor")
 print("--------------------------------------------------------------")
-
+~~~
 ## Output :
 ![image](https://github.com/sharmitha3/Muttiple-capacity-with-infinite-capacity/assets/145974496/36dc76ff-56f9-4329-9215-cd7b9fa5af7d)
 
